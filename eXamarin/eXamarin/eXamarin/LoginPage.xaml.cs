@@ -16,23 +16,38 @@ namespace eXamarin
 
         Button loginButton;
         Button registerButton;
+        Entry passwordEntry;
+        Entry usernameEntry;
         StackLayout stackLayout;
+        Label text1;
         public LoginPage()
         {
             InitializeComponent();
-            userNameEntry = new Entry
+            usernameEntry = new Entry
             {
-                Placeholder = "username"
+                Placeholder = "Username",
+                HorizontalTextAlignment = TextAlignment.Center
             };
             passwordEntry = new Entry
             {
-                Placeholder = "password",
-                IsPassword = true
+                Placeholder = "Password",
+                IsPassword = true,
+                HorizontalTextAlignment = TextAlignment.Center
             };
             loginButton = new Button
             {
                 Text = "Login"
             };
+            text1 = new Label
+            {
+                Text = "Oppure registrati!",
+                HorizontalTextAlignment = TextAlignment.Center
+            };
+            registerButton = new Button
+            {
+                Text = "Crea un account"
+            };
+            
             loginButton.Clicked += LoginButton_Clicked;
             this.Padding = new Thickness(20);
             stackLayout = new StackLayout
@@ -42,9 +57,11 @@ namespace eXamarin
                 Orientation = StackOrientation.Vertical,
                 Spacing = 10,
                 Children = {
-                        userNameEntry,
+                        usernameEntry,
                         passwordEntry,
-                        loginButton
+                        loginButton,
+                        text1,
+                        registerButton
                     }
             };
 
@@ -53,7 +70,7 @@ namespace eXamarin
         void LoginButton_Clicked(object sender, EventArgs e)
         {
             string URL = "http://mobileproject.altervista.org/login.php";
-            MakeRequest.setPost(userNameEntry.Text, passwordEntry.Text, URL);
+            MakeRequest.setPost(usernameEntry.Text, passwordEntry.Text, URL);
         }
     }
 }

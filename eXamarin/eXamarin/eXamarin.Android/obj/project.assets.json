@@ -2000,26 +2000,21 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\lmann\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {}
+    "C:\\Users\\Simone\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lmann\\Documents\\Esami\\Mobile\\Progetto Xamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.Android\\eXamarin.Android.csproj",
+      "projectUniqueName": "C:\\Users\\Simone\\Documents\\GitHub\\eXamarin\\eXamarin\\eXamarin\\eXamarin.Android\\eXamarin.Android.csproj",
       "projectName": "eXamarin.Android",
-      "projectPath": "C:\\Users\\lmann\\Documents\\Esami\\Mobile\\Progetto Xamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.Android\\eXamarin.Android.csproj",
-      "packagesPath": "C:\\Users\\lmann\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lmann\\Documents\\Esami\\Mobile\\Progetto Xamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.Android\\obj\\",
+      "projectPath": "C:\\Users\\Simone\\Documents\\GitHub\\eXamarin\\eXamarin\\eXamarin\\eXamarin.Android\\eXamarin.Android.csproj",
+      "packagesPath": "C:\\Users\\Simone\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Simone\\Documents\\GitHub\\eXamarin\\eXamarin\\eXamarin\\eXamarin.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\lmann\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Simone\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "monoandroid90"
@@ -2031,8 +2026,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "C:\\Users\\lmann\\Documents\\Esami\\Mobile\\Progetto Xamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.csproj": {
-              "projectPath": "C:\\Users\\lmann\\Documents\\Esami\\Mobile\\Progetto Xamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.csproj"
+            "C:\\Users\\Simone\\Documents\\GitHub\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.csproj": {
+              "projectPath": "C:\\Users\\Simone\\Documents\\GitHub\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.csproj"
             }
           }
         }

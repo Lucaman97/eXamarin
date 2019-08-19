@@ -10,3 +10,15 @@ C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamari
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.dll
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.deps.json
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.dll
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.csproj.CoreCompileInputs.cache
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.AssemblyInfoInputs.cache
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.AssemblyInfo.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.dll
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.csprojAssemblyReference.cache
