@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Net.Http;
-using System.Text;
 
 namespace eXamarin
 {
@@ -22,14 +21,18 @@ namespace eXamarin
             if (result.Equals("    Login Success  "))
             {
                 Debug.WriteLine("Funge");
+                LoginPage.flag = true; 
             }
 
             else
             {
                 Debug.WriteLine("Error while inserting User in Post mode");
+                LoginPage.flag = false;
             }
 
         }
+
+
 
 
     }

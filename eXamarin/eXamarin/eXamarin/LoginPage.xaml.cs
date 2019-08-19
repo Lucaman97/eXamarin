@@ -1,9 +1,6 @@
 ﻿using System;
-using System.Collections.Generic;
 using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+using System.Diagnostics;
 using Xamarin.Forms;
 
 namespace eXamarin
@@ -13,7 +10,7 @@ namespace eXamarin
     [DesignTimeVisible(false)]
     public partial class LoginPage : ContentPage
     {
-
+        public static Boolean flag = false;
         Button loginButton;
         Button registerButton;
         Entry passwordEntry;
@@ -49,6 +46,7 @@ namespace eXamarin
             };
             
             loginButton.Clicked += LoginButton_Clicked;
+            registerButton.Clicked += RegisterButton_Clicked;
             this.Padding = new Thickness(20);
             stackLayout = new StackLayout
             {
@@ -67,10 +65,33 @@ namespace eXamarin
 
             this.Content = stackLayout;
         }
+
         void LoginButton_Clicked(object sender, EventArgs e)
         {
             string URL = "http://mobileproject.altervista.org/login.php";
             MakeRequest.setPost(usernameEntry.Text, passwordEntry.Text, URL);
+            //System.Threading.Thread.Sleep(10000);
+            if (flag)
+            {
+                launchMainMenu();
+            }
+            else Debug.WriteLine("Dioporco");
         }
+
+        void RegisterButton_Clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new MainMenu
+            {
+            });
+        }
+
+        public void launchMainMenu()
+        {
+            Navigation.PushAsync(new RegistrationPage
+            {
+            });
+        }
+
+        
     }
 }
