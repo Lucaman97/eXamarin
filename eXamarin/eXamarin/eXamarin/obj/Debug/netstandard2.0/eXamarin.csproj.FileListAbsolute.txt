@@ -24,3 +24,7 @@ C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\n
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.csprojAssemblyReference.cache
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\MainMenu.xaml.g.cs
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\RegistrationPage.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.csproj.CopyComplete

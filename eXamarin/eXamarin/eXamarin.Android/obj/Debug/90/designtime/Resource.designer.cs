@@ -3469,38 +3469,38 @@ namespace eXamarin.Droid
 			// aapt resource value: 0x7F0400D0
 			public const int floatingActionButtonStyle = 2130968784;
 			
-			// aapt resource value: 0x7F040003
-			public const int font = 2130968579;
+			// aapt resource value: 0x7F040002
+			public const int font = 2130968578;
 			
 			// aapt resource value: 0x7F0400D2
 			public const int fontFamily = 2130968786;
 			
+			// aapt resource value: 0x7F040003
+			public const int fontProviderAuthority = 2130968579;
+			
 			// aapt resource value: 0x7F040004
-			public const int fontProviderAuthority = 2130968580;
+			public const int fontProviderCerts = 2130968580;
 			
 			// aapt resource value: 0x7F040005
-			public const int fontProviderCerts = 2130968581;
+			public const int fontProviderFetchStrategy = 2130968581;
 			
 			// aapt resource value: 0x7F040006
-			public const int fontProviderFetchStrategy = 2130968582;
+			public const int fontProviderFetchTimeout = 2130968582;
 			
 			// aapt resource value: 0x7F040007
-			public const int fontProviderFetchTimeout = 2130968583;
+			public const int fontProviderPackage = 2130968583;
 			
 			// aapt resource value: 0x7F040008
-			public const int fontProviderPackage = 2130968584;
+			public const int fontProviderQuery = 2130968584;
 			
 			// aapt resource value: 0x7F040009
-			public const int fontProviderQuery = 2130968585;
+			public const int fontStyle = 2130968585;
 			
 			// aapt resource value: 0x7F04000A
-			public const int fontStyle = 2130968586;
+			public const int fontVariationSettings = 2130968586;
 			
 			// aapt resource value: 0x7F04000B
-			public const int fontVariationSettings = 2130968587;
-			
-			// aapt resource value: 0x7F04000C
-			public const int fontWeight = 2130968588;
+			public const int fontWeight = 2130968587;
 			
 			// aapt resource value: 0x7F0400DC
 			public const int foregroundInsidePadding = 2130968796;
@@ -4273,8 +4273,8 @@ namespace eXamarin.Droid
 			// aapt resource value: 0x7F0401CF
 			public const int trackTintMode = 2130969039;
 			
-			// aapt resource value: 0x7F040015
-			public const int ttcIndex = 2130968597;
+			// aapt resource value: 0x7F04000C
+			public const int ttcIndex = 2130968588;
 			
 			// aapt resource value: 0x7F0401D1
 			public const int useCompatPadding = 2130969041;
@@ -6519,8 +6519,8 @@ namespace eXamarin.Droid
 			// aapt resource value: 0x7F0C001C
 			public const int checkbox = 2131492892;
 			
-			// aapt resource value: 0x7F0C0009
-			public const int chronometer = 2131492873;
+			// aapt resource value: 0x7F0C0008
+			public const int chronometer = 2131492872;
 			
 			// aapt resource value: 0x7F0C001E
 			public const int container = 2131492894;
@@ -6591,8 +6591,8 @@ namespace eXamarin.Droid
 			// aapt resource value: 0x7F010216
 			public const int flyoutcontent_recycler = 2130772502;
 			
-			// aapt resource value: 0x7F0C000B
-			public const int forever = 2131492875;
+			// aapt resource value: 0x7F0C0009
+			public const int forever = 2131492873;
 			
 			// aapt resource value: 0x7F0C0033
 			public const int ghost_view = 2131492915;
@@ -6603,20 +6603,20 @@ namespace eXamarin.Droid
 			// aapt resource value: 0x7F0C0035
 			public const int home = 2131492917;
 			
-			// aapt resource value: 0x7F0C000C
-			public const int icon = 2131492876;
+			// aapt resource value: 0x7F0C000A
+			public const int icon = 2131492874;
 			
-			// aapt resource value: 0x7F0C000D
-			public const int icon_group = 2131492877;
+			// aapt resource value: 0x7F0C000B
+			public const int icon_group = 2131492875;
 			
 			// aapt resource value: 0x7F0C0038
 			public const int image = 2131492920;
 			
-			// aapt resource value: 0x7F0C000E
-			public const int info = 2131492878;
+			// aapt resource value: 0x7F0C000C
+			public const int info = 2131492876;
 			
-			// aapt resource value: 0x7F0C000F
-			public const int italic = 2131492879;
+			// aapt resource value: 0x7F0C000D
+			public const int italic = 2131492877;
 			
 			// aapt resource value: 0x7F0C003B
 			public const int item_touch_helper_previous_elevation = 2131492923;
@@ -6630,11 +6630,11 @@ namespace eXamarin.Droid
 			// aapt resource value: 0x7F0C0010
 			public const int left = 2131492880;
 			
-			// aapt resource value: 0x7F0C0011
-			public const int line1 = 2131492881;
+			// aapt resource value: 0x7F0C000E
+			public const int line1 = 2131492878;
 			
-			// aapt resource value: 0x7F0C0012
-			public const int line3 = 2131492882;
+			// aapt resource value: 0x7F0C000F
+			public const int line3 = 2131492879;
 			
 			// aapt resource value: 0x7F0C0041
 			public const int listMode = 2131492929;
@@ -6819,17 +6819,17 @@ namespace eXamarin.Droid
 			// aapt resource value: 0x7F0C0013
 			public const int none = 2131492883;
 			
-			// aapt resource value: 0x7F0C0014
-			public const int normal = 2131492884;
+			// aapt resource value: 0x7F0C0010
+			public const int normal = 2131492880;
 			
-			// aapt resource value: 0x7F0C0015
-			public const int notification_background = 2131492885;
+			// aapt resource value: 0x7F0C0011
+			public const int notification_background = 2131492881;
 			
-			// aapt resource value: 0x7F0C0016
-			public const int notification_main_column = 2131492886;
+			// aapt resource value: 0x7F0C0012
+			public const int notification_main_column = 2131492882;
 			
-			// aapt resource value: 0x7F0C0017
-			public const int notification_main_column_container = 2131492887;
+			// aapt resource value: 0x7F0C0013
+			public const int notification_main_column_container = 2131492883;
 			
 			// aapt resource value: 0x7F0C004F
 			public const int outline = 2131492943;
@@ -6858,11 +6858,11 @@ namespace eXamarin.Droid
 			// aapt resource value: 0x7F0C0018
 			public const int right = 2131492888;
 			
-			// aapt resource value: 0x7F0C0019
-			public const int right_icon = 2131492889;
+			// aapt resource value: 0x7F0C0014
+			public const int right_icon = 2131492884;
 			
-			// aapt resource value: 0x7F0C001A
-			public const int right_side = 2131492890;
+			// aapt resource value: 0x7F0C0015
+			public const int right_side = 2131492885;
 			
 			// aapt resource value: 0x7F0C005A
 			public const int save_image_matrix = 2131492954;
@@ -6981,20 +6981,20 @@ namespace eXamarin.Droid
 			// aapt resource value: 0x7F0C007B
 			public const int tabMode = 2131492987;
 			
-			// aapt resource value: 0x7F0C001C
-			public const int tag_transition_group = 2131492892;
+			// aapt resource value: 0x7F0C0016
+			public const int tag_transition_group = 2131492886;
 			
-			// aapt resource value: 0x7F0C001D
-			public const int tag_unhandled_key_event_manager = 2131492893;
+			// aapt resource value: 0x7F0C0017
+			public const int tag_unhandled_key_event_manager = 2131492887;
 			
-			// aapt resource value: 0x7F0C001E
-			public const int tag_unhandled_key_listeners = 2131492894;
+			// aapt resource value: 0x7F0C0018
+			public const int tag_unhandled_key_listeners = 2131492888;
 			
-			// aapt resource value: 0x7F0C001F
-			public const int text = 2131492895;
+			// aapt resource value: 0x7F0C0019
+			public const int text = 2131492889;
 			
-			// aapt resource value: 0x7F0C0020
-			public const int text2 = 2131492896;
+			// aapt resource value: 0x7F0C001A
+			public const int text2 = 2131492890;
 			
 			// aapt resource value: 0x7F0C0084
 			public const int textinput_counter = 2131492996;
@@ -7014,11 +7014,11 @@ namespace eXamarin.Droid
 			// aapt resource value: 0x7F0C0083
 			public const int text_input_password_toggle = 2131492995;
 			
-			// aapt resource value: 0x7F0C0021
-			public const int time = 2131492897;
+			// aapt resource value: 0x7F0C001B
+			public const int time = 2131492891;
 			
-			// aapt resource value: 0x7F0C0022
-			public const int title = 2131492898;
+			// aapt resource value: 0x7F0C001C
+			public const int title = 2131492892;
 			
 			// aapt resource value: 0x7F0C0089
 			public const int titleDividerNoCustom = 2131493001;
@@ -10607,8 +10607,8 @@ namespace eXamarin.Droid
 					2130968589,
 					2130968596};
 			
-			// aapt resource value: 0x7F060007
-			public const int CoordinatorLayout_keylines = 2131099655;
+			// aapt resource value: 0x7F060041
+			public const int CoordinatorLayout_keylines = 2131099713;
 			
 			public static int[] CoordinatorLayout_Layout = new int[] {
 					16842931,
@@ -10619,8 +10619,8 @@ namespace eXamarin.Droid
 					2130968594,
 					2130968595};
 			
-			// aapt resource value: 0x7F060010
-			public const int CoordinatorLayout_Layout_android_layout_gravity = 2131099664;
+			// aapt resource value: 0x7F060044
+			public const int CoordinatorLayout_Layout_android_layout_gravity = 2131099716;
 			
 			// aapt resource value: 0x1
 			public const int CoordinatorLayout_Layout_layout_anchor = 1;
@@ -10758,12 +10758,12 @@ namespace eXamarin.Droid
 			public const int FlowLayout_lineSpacing = 1;
 			
 			public static int[] FontFamily = new int[] {
+					2130968579,
 					2130968580,
 					2130968581,
 					2130968582,
 					2130968583,
-					2130968584,
-					2130968585};
+					2130968584};
 			
 			public static int[] FontFamilyFont = new int[] {
 					16844082,
@@ -10771,14 +10771,14 @@ namespace eXamarin.Droid
 					16844144,
 					16844083,
 					16844143,
-					2130968579,
+					2130968578,
+					2130968585,
 					2130968586,
 					2130968587,
-					2130968588,
-					2130968597};
+					2130968588};
 			
-			// aapt resource value: 0x7F060025
-			public const int FontFamilyFont_android_font = 2131099685;
+			// aapt resource value: 0x7F060014
+			public const int FontFamilyFont_android_font = 2131099668;
 			
 			// aapt resource value: 0x1
 			public const int FontFamilyFont_android_fontStyle = 1;
@@ -10807,8 +10807,8 @@ namespace eXamarin.Droid
 			// aapt resource value: 0x9
 			public const int FontFamilyFont_ttcIndex = 9;
 			
-			// aapt resource value: 0x7F060018
-			public const int FontFamily_fontProviderAuthority = 2131099672;
+			// aapt resource value: 0x7F060007
+			public const int FontFamily_fontProviderAuthority = 2131099655;
 			
 			// aapt resource value: 0x1
 			public const int FontFamily_fontProviderCerts = 1;
@@ -10857,14 +10857,14 @@ namespace eXamarin.Droid
 					16843173,
 					16844052};
 			
-			// aapt resource value: 0x7F060049
-			public const int GradientColorItem_android_color = 2131099721;
+			// aapt resource value: 0x7F060038
+			public const int GradientColorItem_android_color = 2131099704;
 			
 			// aapt resource value: 0x1
 			public const int GradientColorItem_android_offset = 1;
 			
-			// aapt resource value: 0x7F060036
-			public const int GradientColor_android_centerColor = 2131099702;
+			// aapt resource value: 0x7F060025
+			public const int GradientColor_android_centerColor = 2131099685;
 			
 			// aapt resource value: 0x1
 			public const int GradientColor_android_centerX = 1;

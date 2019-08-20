@@ -8,6 +8,7 @@ namespace eXamarin
     // Learn more about making custom code visible in the Xamarin.Forms previewer
     // by visiting https://aka.ms/xamarinforms-previewer
     [DesignTimeVisible(false)]
+    
     public partial class LoginPage : ContentPage
     {
         public static Boolean flag = false;
@@ -68,16 +69,23 @@ namespace eXamarin
 
         async void LoginButton_Clicked(object sender, EventArgs e)
         {
+            var message = "Autenticazione in corso...";
+            DependencyService.Get<Message>().Longtime(message);
             string URL = "http://mobileproject.altervista.org/login.php";
             await MakeRequest.setPost(usernameEntry.Text, passwordEntry.Text, URL);
-            //System.Threading.Thread.Sleep(15000);
             if (flag)
             {
-                 Navigation.PushAsync(new RegistrationPage
+
+                Navigation.PushAsync(new RegistrationPage
                 {
                 });
             }
-            else Debug.WriteLine("Dioporco");
+            else
+            {
+                Debug.WriteLine("Dioporco");
+                var message1 = "Dati errati!";
+                DependencyService.Get<Message>().Longtime(message1);
+            }
         } 
 
         void RegisterButton_Clicked(object sender, EventArgs e)
