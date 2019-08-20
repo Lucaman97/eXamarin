@@ -44,7 +44,7 @@ namespace eXamarin
             {
                 Text = "Crea un account"
             };
-            
+
             loginButton.Clicked += LoginButton_Clicked;
             registerButton.Clicked += RegisterButton_Clicked;
             this.Padding = new Thickness(20);
@@ -66,32 +66,26 @@ namespace eXamarin
             this.Content = stackLayout;
         }
 
-        void LoginButton_Clicked(object sender, EventArgs e)
+        async void LoginButton_Clicked(object sender, EventArgs e)
         {
             string URL = "http://mobileproject.altervista.org/login.php";
-            MakeRequest.setPost(usernameEntry.Text, passwordEntry.Text, URL);
-            //System.Threading.Thread.Sleep(10000);
+            await MakeRequest.setPost(usernameEntry.Text, passwordEntry.Text, URL);
+            //System.Threading.Thread.Sleep(15000);
             if (flag)
             {
-                launchMainMenu();
+                 Navigation.PushAsync(new RegistrationPage
+                {
+                });
             }
             else Debug.WriteLine("Dioporco");
-        }
+        } 
 
         void RegisterButton_Clicked(object sender, EventArgs e)
-        {
-            Navigation.PushAsync(new MainMenu
-            {
-            });
-        }
-
-        public void launchMainMenu()
         {
             Navigation.PushAsync(new RegistrationPage
             {
             });
         }
 
-        
     }
 }
