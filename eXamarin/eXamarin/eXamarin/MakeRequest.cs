@@ -22,13 +22,13 @@ namespace eXamarin
             if ( result.Equals("    Login Success  "))
             {
                 Debug.WriteLine("Funge");
-                LoginPage.flag = true; 
+                LoginPage.loginflag = true; 
             }
 
             else
             {
                 Debug.WriteLine("Error while inserting User in Post mode");
-                LoginPage.flag = false;
+                LoginPage.loginflag = false;
             }
 
         }

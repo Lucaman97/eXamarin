@@ -11,7 +11,7 @@ namespace eXamarin
     
     public partial class LoginPage : ContentPage
     {
-        public static Boolean flag = false;
+        public static Boolean loginflag = false;
         Button loginButton;
         Button registerButton;
         Entry passwordEntry;
@@ -73,7 +73,7 @@ namespace eXamarin
             DependencyService.Get<Message>().Longtime(message);
             string URL = "http://mobileproject.altervista.org/login.php";
             await MakeRequest.setPost(usernameEntry.Text, passwordEntry.Text, URL);
-            if (flag)
+            if (loginflag)
             {
 
                 Navigation.PushAsync(new RegistrationPage
@@ -82,7 +82,7 @@ namespace eXamarin
             }
             else
             {
-                Debug.WriteLine("Dioporco");
+                Debug.WriteLine("Errore di autenticazione");
                 var message1 = "Dati errati!";
                 DependencyService.Get<Message>().Longtime(message1);
             }
