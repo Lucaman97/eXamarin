@@ -1,16 +1,128 @@
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\eXamarin.Android.dll
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\eXamarin.Android.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\com.companyname.examarin.apk
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\com.companyname.examarin-Signed.apk
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\eXamarin.dll
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\eXamarin.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\eXamarin.Android.nuget.stamp
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\eXamarin.Android.csprojAssemblyReference.cache
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\libraryimports.cache.stamp
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res.flag
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\eXamarin.Android.csproj.CoreCompileInputs.cache
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\XamlC.stamp
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\eXamarin.Android.csproj.CopyComplete
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\eXamarin.Android.dll
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\eXamarin.Android.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\bin\com.companyname.examarin.apk
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\layout\tabbar.xml
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\layout\toolbar.xml
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\values\styles.xml
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\values\colors.xml
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\R.cs.flag
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\R.txt
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\uploadflags.txt
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\FormsViewGroup.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\Mono.Android.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\mscorlib.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Core.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Numerics.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Numerics.Vectors.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Xml.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Xml.Linq.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Data.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Transactions.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.IO.Compression.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.ComponentModel.Composition.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Net.Http.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Runtime.Serialization.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.ServiceModel.Internals.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Web.Services.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\Mono.Security.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\eXamarin.Android.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\FormsViewGroup.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\Mono.Android.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\mscorlib.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Core.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Numerics.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Numerics.Vectors.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Xml.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Xml.Linq.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\Xamarin.Forms.Core.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\Xamarin.Forms.Xaml.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Data.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Transactions.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.IO.Compression.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.IO.Compression.FileSystem.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.ComponentModel.Composition.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Net.Http.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Runtime.Serialization.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.ServiceModel.Internals.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Web.Services.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\Mono.Security.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\eXamarin.dll.mdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\Xamarin.Essentials.dll.mdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\eXamarin.dll.mdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\Xamarin.Essentials.dll.mdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\eXamarin.dll.mdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll.mdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\eXamarin.Android.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\Mono.Android.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\Mono.Security.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\mscorlib.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Core.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Data.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Numerics.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Transactions.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Xml.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.dll
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\build.props
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\adb.props
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\eXamarin.Android.csprojAssemblyReference.cache
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\resourcepaths.cache
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res.flag
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\flata\compiled.flata
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\eXamarin.Android.dll
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\eXamarin.Android.pdb
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\com.companyname.examarin.apk
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\com.companyname.examarin-Signed.apk
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\eXamarin.dll
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\eXamarin.pdb
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\stamp\_BuildLibraryImportsCache.stamp
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\resourcepaths.cache
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res.flag
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\flata\77556f391708f4433bf35408434c160f6300907c.stamp
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\flata\d19c2b9e8fded099b9b02e4525802b96976afdd1.stamp
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\flata\66835397789032a5c5ecda6e08a0b3e8653744a6.stamp
@@ -35,7 +147,6 @@ C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamari
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\flata\b7c3d137cea3123359180de76bfdb6eb3a6236d2.flata
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\flata\483db0df53783475fe683b6a82cff5419de25c46.flata
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\flata\b639f44add1f5c8a86fb51bec280bc7db53d16d7.flata
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\flata\compiled.flata
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\R.txt
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\R.cs.flag
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\eXamarin.Android.csproj.CoreCompileInputs.cache
@@ -258,25 +369,9 @@ C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamari
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPager_OnPageChangeListenerImplementor.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorListenerImplementor.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\view\ViewPropertyAnimatorUpdateListenerImplementor.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\os\CancellationSignal_OnCancelListenerImplementor.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\media\session\MediaSessionCompat_OnActiveChangeListenerImplementor.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\xamarin\essentials\fileProvider.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ButtonRenderer.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\CarouselPageRenderer.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\FormsFragmentPagerAdapter_1.java
@@ -296,7 +391,12 @@ C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamari
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\SwitchRenderer.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\TabbedPageRenderer.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md58432a647068b097f9637064b8985a5e0\ViewRenderer_2.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCanceledListenerImplementor.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\content\Loader_OnLoadCompleteListenerImplementor.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md541a89891e905eefed4059042eff863f7\MainActivity.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\app\FragmentManager_OnBackStackChangedListenerImplementor.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\v4\app\SharedElementCallback_OnSharedElementsReadyListenerImplementor.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\v13\view\inputmethod\InputConnectionCompat_OnCommitContentListenerImplementor.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActionSheetRenderer.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ActivityIndicatorRenderer.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\AHorizontalScrollView.java
@@ -445,27 +545,39 @@ C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamari
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\VisualElementTracker_AttachTracker.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\WebViewRenderer_JavascriptResult.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\v13\view\DragStartHelper_OnDragStartListenerImplementor.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\transition\Transition_TransitionListenerImplementor.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\AppBarLayout_OnOffsetChangedListenerImplementor.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemReselectedListenerImplementor.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\BottomNavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\NavigationView_OnNavigationItemSelectedListenerImplementor.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\SwipeDismissBehavior_OnDismissListenerImplementor.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\widget\TabLayout_BaseOnTabSelectedListenerImplementor.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\android\support\v7\widget\Toolbar_NavigationOnClickEventDispatcher.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ButtonRenderer.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\FrameRenderer.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ImageRenderer.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\LabelRenderer.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\android\support\v7\recyclerview\R.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\support\design\chip\ChipGroup_OnCheckedChangeListenerImplementor.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\android\support\v7\mediarouter\R.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\android\support\v7\cardview\R.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\CustomTabsServiceConnectionImpl.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\KeepAliveService.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\android\support\v7\appcompat\R.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\android\app\ApplicationRegistration.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\android\support\transition\R.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\android\support\mediacompat\R.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\mono\MonoPackageManager_Resources.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\android\support\design\widget\Snackbar_SnackbarActionClickImplementor.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\android\support\design\R.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ButtonRenderer.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\FrameRenderer.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\ImageRenderer.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md5f92e0daf340890c9667469657ee2ece8\LabelRenderer.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\android\support\customtabs\CustomTabsClient_CustomTabsCallbackImpl.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\android\support\customtabs\R.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\android\support\coordinatorlayout\R.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\CustomTabsServiceConnectionImpl.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md5dcb6eccdc824e0677ffae8ccdde42930\KeepAliveService.java
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\android\support\compat\R.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\AccelerometerListener.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\ActivityLifecycleContextListener.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\BarometerListener.java
@@ -479,7 +591,6 @@ C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamari
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SensorListener.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\SingleLocationListener.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md5d630c3d3bfb5f5558520331566132d97\TextToSpeechImplementation.java
-C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\android\support\compat\R.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\bin\packaged_resources
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\com\companyname\examarin\R.java
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\bin\classes.dex
@@ -495,117 +606,8 @@ C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamari
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\eXamarin.Android.dll
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\eXamarin.Android.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\com.companyname.examarin.apk
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\com.companyname.examarin-Signed.apk
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\eXamarin.dll
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\eXamarin.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\MonoAndroid,Version=v9.0.AssemblyAttributes.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\eXamarin.Android.nuget.stamp
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\eXamarin.Android.csprojAssemblyReference.cache
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\libraryimports.cache.stamp
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res.flag
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\eXamarin.Android.csproj.CoreCompileInputs.cache
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\XamlC.stamp
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\eXamarin.Android.csproj.CopyComplete
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\eXamarin.Android.dll
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\eXamarin.Android.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\bin\com.companyname.examarin.apk
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\layout\tabbar.xml
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\layout\toolbar.xml
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\values\styles.xml
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\values\colors.xml
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon.xml
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-anydpi-v26\icon_round.xml
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-hdpi\icon.png
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-hdpi\launcher_foreground.png
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-mdpi\icon.png
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-mdpi\launcher_foreground.png
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-xhdpi\icon.png
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-xhdpi\launcher_foreground.png
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-xxhdpi\icon.png
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-xxhdpi\launcher_foreground.png
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-xxxhdpi\icon.png
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\mipmap-xxxhdpi\launcher_foreground.png
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\R.cs.flag
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\R.txt
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\uploadflags.txt
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\FormsViewGroup.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\Mono.Android.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\mscorlib.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Core.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Numerics.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Numerics.Vectors.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Xml.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Xml.Linq.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\Xamarin.Forms.Core.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\Xamarin.Forms.Platform.Android.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\Xamarin.Forms.Xaml.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Data.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Transactions.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.IO.Compression.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.IO.Compression.FileSystem.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.ComponentModel.Composition.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Net.Http.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Runtime.Serialization.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.ServiceModel.Internals.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Web.Services.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\Mono.Security.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\eXamarin.Android.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\FormsViewGroup.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\Mono.Android.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\mscorlib.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Core.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Numerics.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Numerics.Vectors.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Xml.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Xml.Linq.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\Xamarin.Forms.Core.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\Xamarin.Forms.Platform.Android.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\Xamarin.Forms.Xaml.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Data.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Transactions.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.IO.Compression.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.IO.Compression.FileSystem.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.ComponentModel.Composition.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Net.Http.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Runtime.Serialization.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.ServiceModel.Internals.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\System.Web.Services.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\Mono.Security.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\eXamarin.dll.mdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\Xamarin.Essentials.dll.mdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\eXamarin.dll.mdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\Xamarin.Essentials.dll.mdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\eXamarin.dll.mdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\Xamarin.Essentials.dll.mdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\eXamarin.Android.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\FormsViewGroup.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\Mono.Android.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\Mono.Security.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\mscorlib.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.ComponentModel.Composition.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Core.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Data.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.IO.Compression.FileSystem.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.IO.Compression.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Net.Http.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Numerics.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Numerics.Vectors.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Runtime.Serialization.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.ServiceModel.Internals.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Transactions.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Web.Services.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Xml.Linq.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\System.Xml.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.dll
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\eXamarin.dll.mdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\eXamarin.dll.mdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\Xamarin.Essentials.dll.mdb
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\eXamarin.dll.mdb
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\drawable\book2.png
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\drawable\calendar1.png
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\drawable\settings4.png
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\res\drawable\www2.png
