@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="eXamarin.NotePage">
+    <StackLayout Margin="20">
+        <Editor x:Name="EdtTitle"
+                Placeholder="Inserisci il titolo"
+                Text="{Binding Title}"
+                HeightRequest="70" />
+        <Editor x:Name="EdtDate"
+                Placeholder="Inserisci la data"
+                Text="{Binding Date}"
+                HeightRequest="70" />
+        <Editor x:Name="EdtNotes"
+                Placeholder="Inserisci gli appunti"
+                Text="{Binding Notes}"
+                HeightRequest="300" />
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Button Text="Save" 
+                    Clicked="OnSaveButtonClicked" />
+            <Button Grid.Column="1"
+                    Text="Delete" 
+                    Clicked="OnDeleteButtonClicked"/>
+        </Grid>
+    </StackLayout>
+</ContentPage>

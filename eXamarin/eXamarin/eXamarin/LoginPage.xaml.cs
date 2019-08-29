@@ -76,7 +76,7 @@ namespace eXamarin
             if (loginflag)
             {
 
-                Navigation.PushAsync(new MainMenu
+                await Navigation.PushAsync(new MainMenu
                 {
                 });
             }

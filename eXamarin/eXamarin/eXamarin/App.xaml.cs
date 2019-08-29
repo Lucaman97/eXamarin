@@ -1,11 +1,40 @@
 ﻿using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using eXamarin.Data;
+using System.IO;
 
 namespace eXamarin
 {
     public partial class App : Application
     {
+
+        static NotesDatabase databaseNotes;
+        static SubjectsDatabase databaseSubjects;
+
+        public static NotesDatabase NoteDatabase
+        {
+            get
+            {
+                if (databaseNotes == null)
+                {
+                    databaseNotes = new NotesDatabase(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "notes2.db3"));
+                }
+                return databaseNotes;
+            }
+        }
+
+        public static SubjectsDatabase SubjectsDatabase
+        {
+            get
+            {
+                if (databaseSubjects == null)
+                {
+                    databaseSubjects = new SubjectsDatabase(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "subjects.db3"));
+                }
+                return databaseSubjects;
+            }
+        }
 
         public App()
         {

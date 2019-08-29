@@ -30,3 +30,21 @@ C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamari
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.dll
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.pdb
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.deps.json
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.dll
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.pdb
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.csprojAssemblyReference.cache
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\MainMenu.xaml.g.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\RegistrationPage.xaml.g.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.csproj.CoreCompileInputs.cache
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.AssemblyInfoInputs.cache
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.AssemblyInfo.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.dll
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.pdb
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Notes.xaml.g.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\PreNotes.xaml.g.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AddSubj.xaml.g.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\NotePage.xaml.g.cs

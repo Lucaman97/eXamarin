@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using eXamarin.Models;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -34,7 +34,7 @@ namespace eXamarin
                 Source="calendar1.png"
 
             };
-            ImageButton img2 = new ImageButton
+            ImageButton appunti = new ImageButton
             {
                 Source = "book2.png"
 
@@ -50,13 +50,20 @@ namespace eXamarin
 
             };
             grid.Children.Add(img1, 0, 0);
-            grid.Children.Add(img2, 1, 0);
+            grid.Children.Add(appunti, 1, 0);
             grid.Children.Add(img3, 0, 1);
             grid.Children.Add(img4, 1, 1);
             grid.ColumnSpacing = 20;
             grid.RowSpacing = 20;
             this.Padding = new Thickness(20, 160, 20, 20);
             Content = grid;
+
+            appunti.Clicked += appunti_clicked;
             }
+
+        void appunti_clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new PreNotes());
         }
+    }
     }
