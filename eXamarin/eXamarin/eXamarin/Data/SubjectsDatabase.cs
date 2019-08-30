@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Text;
 using System.Threading.Tasks;
 using eXamarin.Models;
@@ -42,6 +43,11 @@ namespace eXamarin.Data
         public Task<int> DeleteSubjAsync(Subjects subject)
         {
             return _subjectsDatabase.DeleteAsync(subject);
+        }
+
+        public Task<Subjects> ControlSubjAsync(string subject)
+        {
+            return _subjectsDatabase.Table<Subjects>().Where(i => i.Subject.Equals(subject)).FirstOrDefaultAsync();
         }
     }
 }
