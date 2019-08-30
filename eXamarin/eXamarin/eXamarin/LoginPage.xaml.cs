@@ -11,6 +11,7 @@ namespace eXamarin
     
     public partial class LoginPage : ContentPage
     {
+        public static string loggedusr;
         public static Boolean loginflag = false;
         Button loginButton;
         Button registerButton;
@@ -69,6 +70,7 @@ namespace eXamarin
 
         async void LoginButton_Clicked(object sender, EventArgs e)
         {
+            loggedusr = usernameEntry.Text;
             var message = "Autenticazione in corso...";
             DependencyService.Get<Message>().Longtime(message);
             string URL = "http://mobileproject.altervista.org/login.php";

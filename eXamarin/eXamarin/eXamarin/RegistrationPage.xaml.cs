@@ -56,7 +56,6 @@ namespace eXamarin
                 await Registration.setPost(usr.Text, psw.Text, URL);
                 if(regflag)
                 {
-                    Debug.WriteLine("Marijuana");
                     var message1 = "Account creato!";
                     DependencyService.Get<Message>().Longtime(message1);
                     Navigation.PopAsync();

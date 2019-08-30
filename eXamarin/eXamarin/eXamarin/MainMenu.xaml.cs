@@ -31,39 +31,54 @@ namespace eXamarin
 
             ImageButton img1 = new ImageButton
             {
-                Source="calendar1.png"
-
+                Source="calendar1.png",
+                CornerRadius = 20,
+                BackgroundColor = Color.White,
+                Scale = 0.5,
             };
             ImageButton appunti = new ImageButton
             {
-                Source = "book2.png"
-
+                Source = "book2.png",
+                CornerRadius = 20,
+                BackgroundColor = Color.White,
+                Scale = 0.5,
             };
             ImageButton img3 = new ImageButton
             {
-                Source = "www2.png"
-
+                Source = "www2.png",
+                CornerRadius = 20,
+                BackgroundColor = Color.White,
+                Scale = 0.5,
             };
-            ImageButton img4 = new ImageButton
+            ImageButton settings = new ImageButton
             {
-                Source = "settings4.png"
-
+                Source = "settings4.png",
+                CornerRadius = 20,
+                BackgroundColor = Color.White,
+                Scale = 0.5,
             };
+
             grid.Children.Add(img1, 0, 0);
             grid.Children.Add(appunti, 1, 0);
             grid.Children.Add(img3, 0, 1);
-            grid.Children.Add(img4, 1, 1);
+            grid.Children.Add(settings, 1, 1);
             grid.ColumnSpacing = 20;
             grid.RowSpacing = 20;
             this.Padding = new Thickness(20, 160, 20, 20);
             Content = grid;
 
             appunti.Clicked += appunti_clicked;
+            settings.Clicked += launchsettings;
             }
 
         void appunti_clicked(object sender, EventArgs e)
         {
             Navigation.PushAsync(new PreNotes());
+        }
+
+        void launchsettings(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Settings());
         }
     }
     }

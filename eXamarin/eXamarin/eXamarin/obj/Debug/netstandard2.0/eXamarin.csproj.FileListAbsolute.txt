@@ -48,3 +48,9 @@ C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\PreNotes.xam
 C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AddSubj.xaml.g.cs
 C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\NotePage.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AddSubj.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\EditUserPage.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\NotePage.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Notes.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\PreNotes.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Settings.xaml.g.cs
