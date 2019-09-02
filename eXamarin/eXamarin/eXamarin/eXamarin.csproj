@@ -36,6 +36,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <EmbeddedResource Update="AboutUsPage.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </EmbeddedResource>
     <EmbeddedResource Update="AddSubj.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
