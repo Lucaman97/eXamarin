@@ -1,4 +1,5 @@
-﻿using System;
+﻿using eXamarin.Service;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.Linq;
@@ -26,6 +27,7 @@ namespace eXamarin
   
             newusrn = new Entry
             {
+                Text = "",
                 Placeholder = "Nuovo username",
                 HorizontalTextAlignment = TextAlignment.Center
             };

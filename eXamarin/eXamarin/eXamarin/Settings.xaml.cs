@@ -54,6 +54,9 @@ namespace eXamarin
                 case "Modifica Username":
                     await Navigation.PushAsync(new EditUserPage());
                     break;
+                case "Modifica Password":
+                    await Navigation.PushAsync(new EditPassPage());
+                    break;
                 default: DependencyService.Get<Message>().Longtime(nome);
                     break;
             }

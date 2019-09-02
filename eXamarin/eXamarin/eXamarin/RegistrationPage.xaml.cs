@@ -1,4 +1,5 @@
-﻿using System;
+﻿using eXamarin.Service;
+using System;
 using System.Diagnostics;
 using System.IO;
 using Xamarin.Forms;
@@ -7,7 +8,6 @@ namespace eXamarin
 {
     public partial class RegistrationPage : ContentPage
     {
-        public static Boolean regflag = false;
         Entry usr;
         Entry psw;
         Button enterbtn;
@@ -18,12 +18,14 @@ namespace eXamarin
 
             usr = new Entry
             {
+                Text = "",
                 Placeholder = "Username",
                 HorizontalTextAlignment = TextAlignment.Center
             };
 
             psw = new Entry
             {
+                Text = "",
                 Placeholder = "Password",
                 HorizontalTextAlignment = TextAlignment.Center,
                 IsPassword = true
@@ -54,16 +56,16 @@ namespace eXamarin
             {
                 string URL = "http://mobileproject.altervista.org/register.php";
                 await Registration.setPost(usr.Text, psw.Text, URL);
-                if(regflag)
+                if((usr.Text).Length >= 3 && (psw.Text).Length >=3)
                 {
                     var message1 = "Account creato!";
                     DependencyService.Get<Message>().Longtime(message1);
-                    Navigation.PopAsync();
+                    await Navigation.PopAsync();
                 }
                 else
                 {
                     Debug.WriteLine("Errore nella registrazione");
-                    var message1 = "Account già esistente o campi vuoti!";
+                    var message1 = "La lunghezza minima è di 3 caratteri!";
                     DependencyService.Get<Message>().Longtime(message1);
                 }
             }
