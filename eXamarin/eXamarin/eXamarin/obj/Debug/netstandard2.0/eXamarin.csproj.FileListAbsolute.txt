@@ -56,3 +56,33 @@ C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\n
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Settings.xaml.g.cs
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\EditPassPage.xaml.g.cs
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AboutUsPage.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.deps.json
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.dll
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.pdb
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.csprojAssemblyReference.cache
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AboutUsPage.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AddSubj.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\EditPassPage.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\EditUserPage.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\MainMenu.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\NotePage.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Notes.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\PreNotes.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\RegistrationPage.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Settings.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.csproj.CoreCompileInputs.cache
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.AssemblyInfoInputs.cache
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.AssemblyInfo.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.dll
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.pdb
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Calendario.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Giovedi.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Lunedi.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Martedi.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Mercoledi.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Venerdi.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ListaMaterie.xaml.g.cs
+C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AggiungiOrario.xaml.g.cs

@@ -1,0 +1,439 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+x:Class="eXamarin.Martedi"
+Title = "Seleziona il giorno"
+BackgroundColor="#E8AD00">
+    <ContentPage.Resources>
+        <ResourceDictionary>
+            <Style x:Key="plainButton" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#eee"/>
+                <Setter Property="TextColor" Value="Black" />
+                <Setter Property="BorderRadius" Value="0"/>
+                <Setter Property="FontSize" Value="20" />
+                <Setter Property="Padding" Value="0" />
+            </Style>
+            <Style x:Key="plainButtonRED" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#eee"/>
+                <Setter Property="TextColor" Value="Red" />
+                <Setter Property="BorderRadius" Value="0"/>
+                <Setter Property="FontSize" Value="20" />
+                <Setter Property="Padding" Value="0" />
+            </Style>
+            <Style x:Key="darkerButton" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#ddd"/>
+                <Setter Property="TextColor" Value="Black" />
+                <Setter Property="BorderRadius" Value="0"/>
+                <Setter Property="FontSize" Value="20" />
+                <Setter Property="Padding" Value="0" />
+            </Style>
+            <Style x:Key="darkerButtonRED" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#ddd"/>
+                <Setter Property="TextColor" Value="Red" />
+                <Setter Property="BorderRadius" Value="0"/>
+                <Setter Property="FontSize" Value="20" />
+                <Setter Property="Padding" Value="0" />
+            </Style>
+            <Style x:Key="orangeButton" TargetType="Button">
+                <Setter Property="BackgroundColor" Value="#E8AD00"/>
+                <Setter Property="TextColor" Value="White" />
+                <Setter Property="BorderRadius" Value="0"/>
+                <Setter Property="FontSize" Value="40" />
+            </Style>
+        </ResourceDictionary>
+    </ContentPage.Resources>
+    <ContentPage.Content>
+
+        <Grid x:Name="controlGrid" RowSpacing="1" ColumnSpacing="1">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="50" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+                <RowDefinition Height="40" />
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="70" />
+                <ColumnDefinition Width="230" />
+                <ColumnDefinition Width="70" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Label Text="Martedì"
+                   Grid.Row="0" 
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Red"
+                   BackgroundColor="#E8AD00"
+                   FontSize="40" 
+                   Grid.ColumnSpan="4" />
+
+            <Label Text="Ora"
+                   Grid.Row="1"
+                   Grid.Column="0"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Red"
+                   BackgroundColor="#E8AD00"
+                   FontSize="20" />
+            <Label Text="Materia"
+                   Grid.Row="1"
+                   Grid.Column="1"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Red"
+                   BackgroundColor="#E8AD00"
+                   FontSize="20" />
+            <Label Text="Aula"
+                   Grid.Row="1"
+                   Grid.Column="2"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Red"
+                   BackgroundColor="#E8AD00"
+                   FontSize="20" />
+            <Label Text=""
+                   Grid.Row="1"
+                   Grid.Column="3"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Red"
+                   BackgroundColor="#E8AD00"
+                   FontSize="20" />
+
+            <Label Text="8.30"
+                   Grid.Row="2"
+                   Grid.Column="0"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#ddd"
+                   FontSize="18" />
+            <Button x:Name="mat830"
+                    Text = "Materia" 
+                    Grid.Row="2" 
+                    Grid.Column="1"
+                    Style="{StaticResource darkerButton}" 
+                    Clicked="Martedi830" FontSize="18" />
+            <Label x:Name="aula830"
+                   Text="Aula"
+                   Grid.Row="2"
+                   Grid.Column="2"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#ddd"
+                   FontSize="18" />
+            <Button Text="X"
+                   Grid.Row="2"
+                   Grid.Column="3"
+                   Style="{StaticResource darkerButtonRED}" 
+                   Clicked="MartediX830"/>
+
+
+            <Label Text="9.30"
+                   Grid.Row="3"
+                   Grid.Column="0"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#eee"
+                   FontSize="18" />
+            <Button x:Name="mat930"
+                    Text = "Materia" 
+                    Grid.Row="3"
+                    Grid.Column="1"
+                    Style="{StaticResource plainButton}"
+                    Clicked="Martedi930" FontSize="18" />
+            <Label x:Name="aula930"
+                   Text="Aula"
+                   Grid.Row="3"
+                   Grid.Column="2"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#eee"
+                   FontSize="18" />
+            <Button Text="X"
+                   Grid.Row="3"
+                   Grid.Column="3"
+                   Style="{StaticResource plainButtonRED}" 
+                   Clicked="MartediX930"/>
+
+            <Label Text="10.30"
+                   Grid.Row="4"
+                   Grid.Column="0"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#ddd"
+                   FontSize="18" />
+            <Button  x:Name="mat1030"
+                     Text = "Materia" 
+                     Grid.Row="4"
+                    Grid.Column="1"
+                    Style="{StaticResource darkerButton}" 
+                    Clicked="Martedi1030" FontSize="18" />
+            <Label x:Name="aula1030"
+                   Text="Aula"
+                    Grid.Row="4"
+                   Grid.Column="2"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#ddd"
+                   FontSize="18" />
+            <Button Text="X"
+                   Grid.Row="4"
+                   Grid.Column="3"
+                   Style="{StaticResource darkerButtonRED}" 
+                   Clicked="MartediX1030"/>
+
+
+            <Label Text="11.30"
+                   Grid.Row="5"
+                   Grid.Column="0"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#eee"
+                   FontSize="18" />
+            <Button x:Name="mat1130"
+                    Text = "Materia"
+                    Grid.Row="5"
+                    Grid.Column="1"
+                    Style="{StaticResource plainButton}" 
+                    Clicked="Martedi1130" FontSize="18" />
+            <Label x:Name="aula1130"
+                   Text="Aula"
+                   Grid.Row="5"
+                   Grid.Column="2"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#eee"
+                   FontSize="18" />
+            <Button Text="X"
+                   Grid.Row="5"
+                   Grid.Column="3"
+                   Style="{StaticResource plainButtonRED}" 
+                   Clicked="MartediX1130"/>
+
+            <Label Text="12.30"
+                   Grid.Row="6"
+                   Grid.Column="0"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#ddd"
+                   FontSize="18" />
+            <Button x:Name="mat1230"
+                    Text = "Materia" 
+                    Grid.Row="6"
+                    Grid.Column="1"
+                    Style="{StaticResource darkerButton}"
+                    Clicked="Martedi1230" FontSize="18" />
+            <Label x:Name="aula1230"
+                   Text="Aula"
+                   Grid.Row="6"
+                   Grid.Column="2"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#ddd"
+                   FontSize="18" />
+            <Button Text="X"
+                   Grid.Row="6"
+                   Grid.Column="3"
+                   Style="{StaticResource darkerButtonRED}" 
+                   Clicked="MartediX1230"/>
+
+            <Label Text="13.30"
+                   Grid.Row="7"
+                   Grid.Column="0"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#eee"
+                   FontSize="18" />
+            <Button x:Name="mat1330"
+                    Text = "Materia"
+                   Grid.Row="7"
+                    Grid.Column="1"
+                    Style="{StaticResource plainButton}"
+                    Clicked="Martedi1330" FontSize="18" />
+            <Label x:Name="aula1330"
+                   Text="Aula"
+                   Grid.Row="7"
+                   Grid.Column="2"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#eee"
+                   FontSize="18" />
+            <Button Text="X"
+                   Grid.Row="7"
+                   Grid.Column="3"
+                   Style="{StaticResource plainButtonRED}" 
+                   Clicked="MartediX1330"/>
+
+            <Label Text="14.30"
+                   Grid.Row="8"
+                   Grid.Column="0"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#ddd"
+                   FontSize="18" />
+            <Button x:Name="mat1430"
+                    Text = "Materia" 
+                    Grid.Row="8"
+                    Grid.Column="1"
+                    Style="{StaticResource darkerButton}" 
+                    Clicked="Martedi1430" FontSize="18" />
+            <Label x:Name="aula1430"
+                   Text="Aula"
+                  Grid.Row="8"
+                   Grid.Column="2"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#ddd"
+                   FontSize="18" />
+            <Button Text="X"
+                   Grid.Row="8"
+                   Grid.Column="3"
+                   Style="{StaticResource darkerButtonRED}" 
+                   Clicked="MartediX1430"/>
+
+            <Label Text="15.30"
+                   Grid.Row="9"
+                   Grid.Column="0"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#eee"
+                   FontSize="18" />
+            <Button x:Name="mat1530"
+                    Text = "Materia"
+                   Grid.Row="9"
+                    Grid.Column="1"
+                    Style="{StaticResource plainButton}"
+                    Clicked="Martedi1530" FontSize="18" />
+            <Label x:Name="aula1530"
+                   Text="Aula"
+                   Grid.Row="9"
+                   Grid.Column="2"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#eee"
+                   FontSize="18" />
+            <Button Text="X"
+                   Grid.Row="9"
+                   Grid.Column="3"
+                   Style="{StaticResource plainButtonRED}" 
+                   Clicked="MartediX1530"/>
+
+            <Label Text="16.30"
+                   Grid.Row="10"
+                   Grid.Column="0"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#ddd"
+                   FontSize="18" />
+            <Button x:Name="mat1630"
+                    Text = "Materia" 
+                    Grid.Row="10"
+                    Grid.Column="1"
+                    Style="{StaticResource darkerButton}"
+                    Clicked="Martedi1630" FontSize="18" />
+            <Label x:Name="aula1630"
+                   Text="Aula"
+                   Grid.Row="10"
+                   Grid.Column="2"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#ddd"
+                   FontSize="18" />
+            <Button Text="X"
+                   Grid.Row="10"
+                   Grid.Column="3"
+                   Style="{StaticResource darkerButtonRED}" 
+                   Clicked="MartediX1630"/>
+
+            <Label Text="17.30"
+                   Grid.Row="11"
+                   Grid.Column="0"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#eee"
+                   FontSize="18" />
+            <Button x:Name="mat1730"
+                    Text = "Materia"
+                    Grid.Row="11"
+                    Grid.Column="1"
+                    Style="{StaticResource plainButton}"
+                    Clicked="Martedi1730" FontSize="18" />
+            <Label x:Name="aula1730"
+                   Text="Aula"
+                   Grid.Row="11"
+                   Grid.Column="2"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#eee"
+                   FontSize="18" />
+            <Button Text="X"
+                   Grid.Row="11"
+                   Grid.Column="3"
+                   Style="{StaticResource plainButtonRED}" 
+                   Clicked="MartediX1730"/>
+
+            <Label Text="18.30"
+                   Grid.Row="12"
+                   Grid.Column="0"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#ddd"
+                   FontSize="18" />
+            <Button x:Name="mat1830"
+                    Text = "Materia" 
+                    Grid.Row="12"
+                    Grid.Column="1"
+                    Style="{StaticResource darkerButton}"
+                    Clicked="Martedi1830" FontSize="18" />
+            <Label x:Name="aula1830"
+                   Text="Aula"
+                   Grid.Row="12"
+                   Grid.Column="2"
+                   HorizontalTextAlignment="Center"
+                   VerticalTextAlignment="Center" 
+                   TextColor="Black"
+                   BackgroundColor="#ddd"
+                   FontSize="18" />
+            <Button Text="X"
+                   Grid.Row="12"
+                   Grid.Column="3"
+                   Style="{StaticResource darkerButtonRED}" 
+                   Clicked="MartediX1830"/>
+        </Grid>
+
+
+    </ContentPage.Content>
+
+
+</ContentPage>
+    
+    

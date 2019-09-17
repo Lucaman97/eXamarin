@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="eXamarin.AggiungiOrario">
+    <ContentPage.Content>
+
+            <StackLayout Orientation="Vertical" HeightRequest="200" WidthRequest="300" BackgroundColor="White">
+
+            <Label x:Name="MateriaScelta"
+                    Margin="20,20,20,10" 
+                    Text="MATERIA"></Label>
+
+            <Label x:Name="OrarioScelto"
+                    Margin="20,20,20,10" 
+                    Text="ORARIO"></Label>
+
+                <Editor x:Name="EdtAula"
+                        Placeholder="aula"
+                        Text="{Binding Title}"
+                        Margin="20,0,20,10"
+                        HeightRequest="70" />
+                
+                <Button 
+                    Margin="20,0,20,0" 
+                    Text="Salva"
+                    Clicked="OnSalvaClicked" >
+                </Button>
+                
+                <Button 
+                    Margin="20,0,20,0" 
+                    Text="Annulla"
+                    Clicked="OnAnnullaClicked" >                    
+                </Button>
+            <ListView x:Name="listamaterie" />
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>

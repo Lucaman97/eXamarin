@@ -11,6 +11,7 @@ namespace eXamarin
 
         static NotesDatabase databaseNotes;
         static SubjectsDatabase databaseSubjects;
+        static OrarioDatabase databaseOrario;
 
         public static NotesDatabase NoteDatabase
         {
@@ -33,6 +34,18 @@ namespace eXamarin
                     databaseSubjects = new SubjectsDatabase(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "subjects.db3"));
                 }
                 return databaseSubjects;
+            }
+        }
+
+        public static OrarioDatabase OrarioDatabase
+        {
+            get
+            {
+                if (databaseOrario == null)
+                {
+                    databaseOrario = new OrarioDatabase(Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.LocalApplicationData), "orario.db3"));
+                }
+                return databaseOrario;
             }
         }
 

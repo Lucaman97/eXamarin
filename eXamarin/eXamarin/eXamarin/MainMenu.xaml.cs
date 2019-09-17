@@ -67,9 +67,15 @@ namespace eXamarin
             this.Padding = new Thickness(20, 160, 20, 20);
             Content = grid;
 
+            img1.Clicked += calendario_clicked;
             appunti.Clicked += appunti_clicked;
             settings.Clicked += launchsettings;
             }
+
+        void calendario_clicked(object sender, EventArgs e)
+        {
+            Navigation.PushAsync(new Calendario());
+        }
 
         void appunti_clicked(object sender, EventArgs e)
         {
