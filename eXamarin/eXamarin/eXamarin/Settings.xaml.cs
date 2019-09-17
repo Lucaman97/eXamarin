@@ -20,11 +20,11 @@ namespace eXamarin
             this.Title = "Impostazioni";
             ListView lv = new ListView();
             List<String> items = new List<String>() { "Modifica Username", "Modifica Password", "About Us" };
-            lv.ItemsSource = new ListItem[]
+            lv.ItemsSource = new ListItemSettings[]
             {
-                new ListItem {Title = "Modifica Username", Description = "Cambia il nome del tuo account"},
-                new ListItem {Title = "Modifica Password", Description = "Cambia la password del tuo account"},
-                new ListItem {Title = "About Us", Description = "Informazioni sugli sviluppatori dell'app"},
+                new ListItemSettings {Title = "Modifica Username", Description = "Cambia il nome del tuo account"},
+                new ListItemSettings {Title = "Modifica Password", Description = "Cambia la password del tuo account"},
+                new ListItemSettings {Title = "About Us", Description = "Informazioni sugli sviluppatori dell'app"},
             };
             lv.ItemTemplate = new DataTemplate(typeof(TextCell));
             //Binding con title
@@ -36,7 +36,7 @@ namespace eXamarin
                 {
                     if (((ListView)sender).SelectedItem != null)
                     {
-                        ListItem nameli = (ListItem)e.SelectedItem;
+                        ListItemSettings nameli = (ListItemSettings)e.SelectedItem;
                         object nome = nameli.Title;
                         ((ListView)sender).SelectedItem = null; listviewhandler(sender, e, nome.ToString());
                     }

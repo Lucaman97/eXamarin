@@ -686,27 +686,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mmannini\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\Simone\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\DOCUMENTI\\UNI LUCA\\MobileXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.csproj",
+      "projectUniqueName": "C:\\Users\\Simone\\Documents\\GitHub\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.csproj",
       "projectName": "eXamarin",
-      "projectPath": "C:\\DOCUMENTI\\UNI LUCA\\MobileXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.csproj",
-      "packagesPath": "C:\\Users\\mmannini\\.nuget\\packages\\",
-      "outputPath": "C:\\DOCUMENTI\\UNI LUCA\\MobileXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\obj\\",
+      "projectPath": "C:\\Users\\Simone\\Documents\\GitHub\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.csproj",
+      "packagesPath": "C:\\Users\\Simone\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Simone\\Documents\\GitHub\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mmannini\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Simone\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netstandard2.0"

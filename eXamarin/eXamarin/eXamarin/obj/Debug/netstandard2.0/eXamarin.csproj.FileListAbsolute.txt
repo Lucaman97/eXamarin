@@ -86,3 +86,12 @@ C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debu
 C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Venerdi.xaml.g.cs
 C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ListaMaterie.xaml.g.cs
 C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AggiungiOrario.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AggiungiOrario.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Calendario.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Giovedi.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ListaMaterie.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Lunedi.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Martedi.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Mercoledi.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Venerdi.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ShNotes.xaml.g.cs
