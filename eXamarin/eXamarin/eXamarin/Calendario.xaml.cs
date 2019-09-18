@@ -19,33 +19,13 @@ namespace eXamarin
             menu.ItemTapped += (sender, e) =>
 			{
 				ContentPage gotoPage;
-				switch (e.Item.ToString())
-				{
-                    case "Lunedì":
-                        gotoPage = new Lunedi();
-                        break;
-                    case "Martedì":
-                        gotoPage = new Martedi();
-                        break;
-                    case "Mercoledì":
-                        gotoPage = new Mercoledi();
-                        break;
-                    case "Giovedì":
-                        gotoPage = new Giovedi();
-                        break;
-                    case "Venerdì":
-                        gotoPage = new Venerdi();
-                        break;
-                    default:
-                        gotoPage = new Lunedi();
-                        break;
-                }
-				Detail = new NavigationPage(gotoPage);
+                gotoPage = new Giorno(e.Item.ToString());
+                Detail = new NavigationPage(gotoPage);
 				((ListView)sender).SelectedItem = null; 
 				this.IsPresented = false;
 			};
 
-			Detail = new NavigationPage(new Lunedi());
+			Detail = new NavigationPage(new Giorno("Lunedì"));
 		}
 	}
 }
