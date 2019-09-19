@@ -92,3 +92,12 @@ C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\n
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ShNotes.xaml.g.cs
 C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ShNotes.xaml.g.cs
 C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Giorno.xaml.g.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AboutUsPage.xaml.g.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AggiungiOrario.xaml.g.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Calendario.xaml.g.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\EditPassPage.xaml.g.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\EditUserPage.xaml.g.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Giorno.xaml.g.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ListaMaterie.xaml.g.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Settings.xaml.g.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ShNotes.xaml.g.cs

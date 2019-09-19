@@ -11,7 +11,8 @@
 
             <Label x:Name="MateriaScelta"
                     Margin="20,20,20,10" 
-                    Text="MATERIA"></Label>
+                    
+                   Text="{Binding Subject}"></Label>
 
             <Label x:Name="OrarioScelto"
                     Margin="20,20,20,10" 
@@ -22,8 +23,15 @@
                         Text="{Binding Title}"
                         Margin="20,0,20,10"
                         HeightRequest="70" />
-                
-                <Button 
+
+            <Editor x:Name="EdtOre"
+                        Placeholder="ore lezione"
+                        x:DataType="x:Int16"
+                        Keyboard="Numeric"
+                        Margin="20,0,20,10"
+                        HeightRequest="70" />
+
+            <Button 
                     Margin="20,0,20,0" 
                     Text="Salva"
                     Clicked="OnSalvaClicked" >
