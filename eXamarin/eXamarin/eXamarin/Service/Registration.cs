@@ -19,11 +19,11 @@ namespace eXamarin.Service
             });
 
             var response = await _client.PostAsync(URL, formcontent);
-            var result = response.Content.ReadAsStringAsync().Result.ToString();
-            if (result.Equals("    Registrazione avvenuta con successo!  "))
+            var result = response.Content.ReadAsStringAsync().Result.ToString().Trim();
+            if (result.Equals("Registrazione avvenuta con successo!"))
             {
                 Debug.WriteLine("Registrato");
-            } else if (result.Equals("    Username in uso  "))
+            } else if (result.Equals("Username in uso"))
             {
                 Debug.WriteLine("In uso");
             } else

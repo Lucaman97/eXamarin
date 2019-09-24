@@ -17,9 +17,9 @@ namespace eXamarin.Service
             });
 
             var response = await _client.PostAsync(URL, formcontent);
-            var result = response.Content.ReadAsStringAsync().Result.ToString();
+            var result = response.Content.ReadAsStringAsync().Result.ToString().Trim();
             Debug.WriteLine(result);
-            if ( result.Equals("    Login Success  "))
+            if ( result.Equals("Login Success"))
             {
                 Debug.WriteLine("Funge");
                 LoginPage.loginflag = true; 
