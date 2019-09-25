@@ -1,11 +1,8 @@
 ﻿using eXamarin.Models;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
-using System;
 using System.Collections.Generic;
-using System.Diagnostics;
 using System.Net.Http;
-using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
 
@@ -16,13 +13,16 @@ namespace eXamarin.Service
         private static HttpClient _client = new HttpClient();
         public static async Task<List<Appunto>> setPost(string URL, string materia)
         {
+            //riempio form
             HttpContent formcontent = new FormUrlEncodedContent(new[]
             {
                 new KeyValuePair<string,string>("materia_name", materia)
             });
 
+            //prendo la risposta (che è in json)
             var response = await _client.PostAsync(URL, formcontent);
             string result = response.Content.ReadAsStringAsync().Result.ToString();
+            //parso il json
             var serverresp = (JObject) JsonConvert.DeserializeObject(result);
             int success = serverresp["success"].Value<int>();
             if (success == 1)

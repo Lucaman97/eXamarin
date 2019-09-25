@@ -1,11 +1,6 @@
 ﻿using eXamarin.Models;
 using System;
 using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -31,11 +26,11 @@ namespace eXamarin
             lv.ItemTemplate.SetBinding(TextCell.TextProperty, "Title");
             //Binding con descrizione
             lv.ItemTemplate.SetBinding(TextCell.DetailProperty, "Description");
-            //lv.HasUnevenRows = true;
                 lv.ItemSelected += (sender, e) =>
                 {
                     if (((ListView)sender).SelectedItem != null)
                     {
+                        //Ricavo il nome dell'opzione selezionata
                         ListItemSettings nameli = (ListItemSettings)e.SelectedItem;
                         object nome = nameli.Title;
                         ((ListView)sender).SelectedItem = null; listviewhandler(sender, e, nome.ToString());

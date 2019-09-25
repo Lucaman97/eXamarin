@@ -1,10 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net;
+﻿using System.Net;
 using System.Text;
-using System.Threading.Tasks;
-
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -13,7 +8,6 @@ namespace eXamarin
     [XamlCompilation(XamlCompilationOptions.Compile)]
     public partial class ViewNotePage : ContentPage
     {
-        StackLayout sl;
         Label txt;
         public ViewNotePage()
         {
@@ -24,7 +18,9 @@ namespace eXamarin
         {
             this.Title = title;
             WebClient wc = new WebClient();
+            //si connette al link e ne prende il file come uno stream di bit
             byte[] raw = wc.DownloadData(link);
+            //traduce i byte in stringa
             string text = Encoding.UTF8.GetString(raw);
             txt = new Label
             {

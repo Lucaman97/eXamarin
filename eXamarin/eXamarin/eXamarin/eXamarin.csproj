@@ -77,4 +77,67 @@
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </EmbeddedResource>
   </ItemGroup>
+
+  <ItemGroup>
+    <None Update="AboutUsPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="AddSubj.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="AggiungiOrario.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Calendario.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="EditPassPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="EditUserPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Giorno.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="ListaMaterie.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="LoginPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="MainMenu.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="NotePage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Notes.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="PreNotes.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="RegistrationPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="Settings.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="ShNotes.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="ShNotesPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="TestIntent.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+    <None Update="ViewNotePage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+    </None>
+  </ItemGroup>
 </Project>

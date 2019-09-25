@@ -1,12 +1,6 @@
 ﻿using eXamarin.Models;
 using eXamarin.Service;
 using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -29,6 +23,7 @@ namespace eXamarin
             {
                 if (((ListView)sender).SelectedItem != null)
                 {
+                    //mi ricavo l'appunto cliccato
                     Appunto selected = (Appunto)e.SelectedItem;
                     object txt = selected.Note;
                     object title = selected.Title;
@@ -38,6 +33,7 @@ namespace eXamarin
             this.Content = lv;
         }
 
+        //carico gli appunti per ogni materia
         async void loadShNotes(string materia)
         {
             string URL = "http://mobileproject.altervista.org/fetch_appunti.php";
@@ -47,9 +43,9 @@ namespace eXamarin
             lv.ItemTemplate.SetBinding(TextCell.DetailProperty, "Date");
         }
 
+        //apre l'appunto corretto
         async void selectednotehandler(Object sender, EventArgs e, string txt, string title)
         {
-            Debug.WriteLine("test->" + txt);
             await Navigation.PushAsync(new ViewNotePage(txt, title));
         }
     }

@@ -1,13 +1,10 @@
 ﻿using eXamarin.Service;
 using System;
 using System.ComponentModel;
-using System.Diagnostics;
 using Xamarin.Forms;
 
 namespace eXamarin
 {
-    // Learn more about making custom code visible in the Xamarin.Forms previewer
-    // by visiting https://aka.ms/xamarinforms-previewer
     [DesignTimeVisible(false)]
     
     public partial class LoginPage : ContentPage
@@ -25,11 +22,13 @@ namespace eXamarin
             InitializeComponent();
             usernameEntry = new Entry
             {
+                Text = "",
                 Placeholder = "Username",
                 HorizontalTextAlignment = TextAlignment.Center
             };
             passwordEntry = new Entry
             {
+                Text = "",
                 Placeholder = "Password",
                 IsPassword = true,
                 HorizontalTextAlignment = TextAlignment.Center
@@ -65,7 +64,6 @@ namespace eXamarin
                         registerButton
                     }
             };
-
             this.Content = stackLayout;
         }
 
@@ -75,27 +73,28 @@ namespace eXamarin
             var message = "Autenticazione in corso...";
             DependencyService.Get<Message>().Longtime(message);
             string URL = "http://mobileproject.altervista.org/login.php";
-            await MakeRequest.setPost(usernameEntry.Text, passwordEntry.Text, URL);
-            if (loginflag)
+            if (loggedusr.Length >= 3 && (passwordEntry.Text).Length >= 3 )
             {
-
-                await Navigation.PushAsync(new MainMenu
+                await Login.setPost(usernameEntry.Text, passwordEntry.Text, URL);
+                //controllo se il login è andato a buon fine
+                if (loginflag)
                 {
-                });
-            }
-            else
+                    await Navigation.PushAsync(new MainMenu());
+                }
+                else
+                {
+                    var message1 = "Dati errati!";
+                    DependencyService.Get<Message>().Longtime(message1);
+                }
+            }else
             {
-                Debug.WriteLine("Errore di autenticazione");
-                var message1 = "Dati errati!";
-                DependencyService.Get<Message>().Longtime(message1);
+                DependencyService.Get<Message>().Longtime("I campi non possono essere lasciati vuoti.");
             }
         } 
 
         void RegisterButton_Clicked(object sender, EventArgs e)
         {
-            Navigation.PushAsync(new RegistrationPage
-            {
-            });
+            Navigation.PushAsync(new RegistrationPage());
         }
 
     }

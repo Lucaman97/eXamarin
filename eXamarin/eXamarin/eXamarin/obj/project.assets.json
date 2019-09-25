@@ -732,9 +732,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Simone\\Documents\\GitHub\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.csproj",
-      "projectName": "eXamarin",
-      "projectPath": "C:\\Users\\Simone\\Documents\\GitHub\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.csproj",
+      "projectUniqueName": "C:\\Users\\Simone\\Documents\\GitHub\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\Easyversity.csproj",
+      "projectName": "Easyversity",
+      "projectPath": "C:\\Users\\Simone\\Documents\\GitHub\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\Easyversity.csproj",
       "packagesPath": "C:\\Users\\Simone\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Simone\\Documents\\GitHub\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\obj\\",
       "projectStyle": "PackageReference",

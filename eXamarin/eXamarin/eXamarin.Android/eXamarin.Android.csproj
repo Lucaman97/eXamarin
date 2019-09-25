@@ -106,7 +106,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\eXamarin\eXamarin.csproj">
-      <Project>{DAD1631B-2BB6-4D9B-A593-56021B6A2BA9}</Project>
+      <Project>{99DB8125-2012-447C-B044-6474D8F70DDA}</Project>
       <Name>eXamarin</Name>
     </ProjectReference>
   </ItemGroup>

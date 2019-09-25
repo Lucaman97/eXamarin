@@ -1,11 +1,5 @@
 ﻿using eXamarin.Service;
 using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -17,7 +11,6 @@ namespace eXamarin
         //public static Boolean useditFlag = false;
         StackLayout sl;
         Button changeusr;
-        Entry oldusrn;
         Entry newusrn;
 
         public EditUserPage()

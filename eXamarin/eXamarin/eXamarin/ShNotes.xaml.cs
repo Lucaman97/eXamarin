@@ -1,12 +1,6 @@
 ﻿using eXamarin.Models;
 using eXamarin.Service;
 using System;
-using System.Collections.Generic;
-using System.Diagnostics;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -35,6 +29,7 @@ namespace eXamarin
 
         }
 
+        //per caricare le materie che hanno almeno un appunto condiviso
         async void loadSubj()
         {
             string URL = "http://mobileproject.altervista.org/getsubj.php";
@@ -43,6 +38,7 @@ namespace eXamarin
             lv.ItemTemplate.SetBinding(TextCell.TextProperty, "Name");
         }
 
+        //apre la cartella di materie cliccata
         async void listviewhandler(object sender, EventArgs e, string nome)
         {
             await Navigation.PushAsync(new ShNotesPage(nome));

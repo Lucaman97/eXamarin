@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 16
-VisualStudioVersion = 16.0.29201.188
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.572
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "eXamarin.Android", "eXamarin\eXamarin.Android\eXamarin.Android.csproj", "{5AE2DA54-2086-4144-8C81-4E2207C27F2C}"
 EndProject
