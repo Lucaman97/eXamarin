@@ -34,12 +34,12 @@ namespace eXamarin
 
             email2 = new Label
             {
-                Text = "- email 2"
+                Text = "- l.mannini97@gmail.com"
             };
 
             email3 = new Label
             {
-                Text = "- email 3"
+                Text = "- danilo.tomassini.96@gmail.com"
             };
 
             contatti = new Label
