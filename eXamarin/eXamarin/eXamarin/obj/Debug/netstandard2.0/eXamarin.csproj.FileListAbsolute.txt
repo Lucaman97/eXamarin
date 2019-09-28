@@ -99,3 +99,18 @@ C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\n
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ShNotesPage.xaml.g.cs
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ViewNotePage.xaml.g.cs
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AboutUsPage.xaml.g.cs
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AddSubj.xaml.g.cs
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AggiungiOrario.xaml.g.cs
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Calendario.xaml.g.cs
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\EditPassPage.xaml.g.cs
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\EditUserPage.xaml.g.cs
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Giorno.xaml.g.cs
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ListaMaterie.xaml.g.cs
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\NotePage.xaml.g.cs
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Notes.xaml.g.cs
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\PreNotes.xaml.g.cs
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Settings.xaml.g.cs
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ShNotes.xaml.g.cs
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ShNotesPage.xaml.g.cs
+C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ViewNotePage.xaml.g.cs

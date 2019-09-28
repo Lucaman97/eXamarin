@@ -28,6 +28,28 @@
             <Button Grid.Column="1"
                     Text="Delete" 
                     Clicked="OnDeleteButtonClicked"/>
+
+        </Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0" />
+                <ColumnDefinition Width="30" />
+            </Grid.ColumnDefinitions>
+            <CheckBox   
+                    Grid.Row="0"
+                    Grid.Column="1"
+                    Color="Blue"
+                    CheckedChanged="OnCondividiChanged"
+                    VerticalOptions="Center" 
+                    HorizontalOptions="Start"/>
+            
+        <Label  Text="Condividi appunto"
+                VerticalOptions="Center" 
+                Grid.Row="0"
+                Grid.Column="2"/>
+      
+        
         </Grid>
     </StackLayout>
+    
 </ContentPage>
