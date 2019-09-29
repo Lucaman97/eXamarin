@@ -13,12 +13,13 @@ namespace eXamarin
             InitializeComponent();
         }
 
-        //bottone provvisorio utilizzato per inserire le materie nel database
+        //bottone utilizzato per inserire le materie nel database
         async void OnAggMateriaClicked(object sender, EventArgs e)
         {
-            await Navigation.PushAsync(new AddSubj { BindingContext = new Subjects() });
+            await Navigation.PushAsync(new AddSubj { BindingContext = new Subjects() }); //lancia la classe AddSubj per aggiungere una nuova materia alla lista
         }
 
+        //metodo che permette di visualizzare la lista delle materie estratta dal database
         protected override async void OnAppearing()
         {
             base.OnAppearing();
@@ -26,6 +27,7 @@ namespace eXamarin
             listView.ItemsSource = await App.SubjectsDatabase.GetSubjAsync();
         }
 
+        //funzione che permette di captare quale elemento della lista è stato scelto e avvia la classe Notes, usando l'elemento scelto come argomento
         async void OnListViewItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
             if(e.SelectedItem != null)

@@ -114,3 +114,5 @@ C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamari
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ShNotes.xaml.g.cs
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ShNotesPage.xaml.g.cs
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ViewNotePage.xaml.g.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ShNotesPage.xaml.g.cs
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ViewNotePage.xaml.g.cs

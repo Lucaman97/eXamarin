@@ -1,24 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lmann\\Documents\\Esami\\Mobile\\Progetto Xamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.csproj": {}
+    "C:\\Git\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lmann\\Documents\\Esami\\Mobile\\Progetto Xamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.csproj": {
+    "C:\\Git\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lmann\\Documents\\Esami\\Mobile\\Progetto Xamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.csproj",
+        "projectUniqueName": "C:\\Git\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.csproj",
         "projectName": "eXamarin",
-        "projectPath": "C:\\Users\\lmann\\Documents\\Esami\\Mobile\\Progetto Xamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.csproj",
-        "packagesPath": "C:\\Users\\lmann\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lmann\\Documents\\Esami\\Mobile\\Progetto Xamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\obj\\",
+        "projectPath": "C:\\Git\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\eXamarin.csproj",
+        "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
+        "outputPath": "C:\\Git\\eXamarin\\eXamarin\\eXamarin\\eXamarin\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\lmann\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],

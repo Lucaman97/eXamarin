@@ -24,17 +24,17 @@ namespace eXamarin
             var temp = (Subjects)BindingContext;
             string mat = temp.Subject.ToString();
 
-            listView.ItemsSource = await App.NoteDatabase.GetNoteBySubj(mat);
+            listView.ItemsSource = await App.NoteDatabase.GetNoteBySubj(mat); //carica la lista degli appunti relativi alla materia scelta, inserita nella variabile mat
         }
 
-        async void OnNoteAddedClicked(object sender, EventArgs e)
+        async void OnNoteAddedClicked(object sender, EventArgs e) //aggiungi un appunto
         {
             var temp = (Subjects)BindingContext;
             string mat = temp.Subject.ToString();
             await Navigation.PushAsync(new NotePage(mat));
         }
 
-        async void OnListViewItemSelected(object sender, SelectedItemChangedEventArgs e)
+        async void OnListViewItemSelected(object sender, SelectedItemChangedEventArgs e) //visualizza un appunto
         {
             if(e.SelectedItem != null)
             {

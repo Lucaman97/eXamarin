@@ -24,10 +24,10 @@ namespace eXamarin
         public NotePage(string materia)
         {
             InitializeComponent();
-            mat = materia;
+            mat = materia; //mette nella stringa mat la variabile presa dal contesto nella chiamata
         }
 
-        async void OnSaveButtonClicked(object sender, EventArgs e)
+        async void OnSaveButtonClicked(object sender, EventArgs e) //eventi scatenati alla pressione del bottone salva
         {
             Note note = new Note();
             string title = this.EdtTitle.Text;
@@ -38,7 +38,7 @@ namespace eXamarin
             note.Date = date;
             note.Notes = notes;
 
-            await App.NoteDatabase.SaveNoteAsync(note);
+            await App.NoteDatabase.SaveNoteAsync(note); //salva l'appunto passando l'oggetto note i cui campi sono stati costruiti in precedenza
             await Navigation.PopAsync();
 
             if(condividi==true)
@@ -86,7 +86,7 @@ namespace eXamarin
 
         }
 
-        async void OnDeleteButtonClicked(object sender, EventArgs e)
+        async void OnDeleteButtonClicked(object sender, EventArgs e) //elimina l'appunto scelto utilizzando l'oggetto note
         {
             var note = (Note)BindingContext;
             await App.NoteDatabase.DeleteNoteAsync(note);
