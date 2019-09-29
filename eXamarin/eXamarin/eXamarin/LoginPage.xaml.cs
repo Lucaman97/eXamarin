@@ -88,7 +88,7 @@ namespace eXamarin
                 }
             }else
             {
-                DependencyService.Get<Message>().Longtime("I campi non possono essere lasciati vuoti.");
+                DependencyService.Get<Message>().Longtime("La lunghezza minima è di 3 caratteri.");
             }
         } 
 
