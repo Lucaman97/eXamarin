@@ -1,20 +1,3 @@
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.deps.json
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.dll
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.csproj.CoreCompileInputs.cache
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.AssemblyInfoInputs.cache
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.AssemblyInfo.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.dll
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.csprojAssemblyReference.cache
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\MainMenu.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\RegistrationPage.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\Mono.Android.dll
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\Mono.Android.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\Mono.Android.xml
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.csproj.CopyComplete
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.deps.json
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.dll
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.pdb
@@ -47,14 +30,6 @@ C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\PreNotes.xam
 C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AddSubj.xaml.g.cs
 C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\NotePage.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AddSubj.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\EditUserPage.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\NotePage.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Notes.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\PreNotes.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Settings.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\EditPassPage.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AboutUsPage.xaml.g.cs
 C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.deps.json
 C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.dll
 C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.pdb
@@ -80,10 +55,6 @@ C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debu
 C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Calendario.xaml.g.cs
 C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ListaMaterie.xaml.g.cs
 C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AggiungiOrario.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AggiungiOrario.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Calendario.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ListaMaterie.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ShNotes.xaml.g.cs
 C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ShNotes.xaml.g.cs
 C:\DOCUMENTI\UNI LUCA\MobileXamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Giorno.xaml.g.cs
 C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AboutUsPage.xaml.g.cs
@@ -95,10 +66,6 @@ C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Giorno.xaml.
 C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ListaMaterie.xaml.g.cs
 C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Settings.xaml.g.cs
 C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ShNotes.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Giorno.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ShNotesPage.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ViewNotePage.xaml.g.cs
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\XamlC.stamp
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AboutUsPage.xaml.g.cs
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AddSubj.xaml.g.cs
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AggiungiOrario.xaml.g.cs
@@ -116,3 +83,36 @@ C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamari
 C:\Users\lmann\Documents\Esami\Mobile\Progetto Xamarin\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ViewNotePage.xaml.g.cs
 C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ShNotesPage.xaml.g.cs
 C:\Git\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ViewNotePage.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.deps.json
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.dll
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\Mono.Android.dll
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\Mono.Android.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\Mono.Android.xml
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AboutUsPage.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AddSubj.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\AggiungiOrario.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Calendario.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\EditPassPage.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\EditUserPage.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Giorno.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ListaMaterie.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\LoginPage.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\MainMenu.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\NotePage.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Notes.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\PreNotes.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\RegistrationPage.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\Settings.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ShNotes.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ShNotesPage.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\ViewNotePage.xaml.g.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.csproj.CoreCompileInputs.cache
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.AssemblyInfoInputs.cache
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.AssemblyInfo.cs
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.csproj.CopyComplete
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.dll
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.pdb
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\obj\Debug\netstandard2.0\eXamarin.csprojAssemblyReference.cache

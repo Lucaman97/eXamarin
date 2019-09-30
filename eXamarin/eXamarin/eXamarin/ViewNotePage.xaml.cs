@@ -17,17 +17,25 @@ namespace eXamarin
         public ViewNotePage(string link, string title)
         {
             this.Title = title;
+
             WebClient wc = new WebClient();
             //si connette al link e ne prende il file come uno stream di bit
-            byte[] raw = wc.DownloadData(link);
-            //traduce i byte in stringa
-            string text = Encoding.UTF8.GetString(raw);
-            txt = new Label
+            try
             {
-                Text = text
-            };
-            this.Padding = new Thickness(10);
-            this.Content = txt;
+                byte[] raw = wc.DownloadData(link);
+                //traduce i byte in stringa  
+                string text = Encoding.UTF8.GetString(raw);
+                txt = new Label
+                {
+                    Text = text
+                };
+                this.Padding = new Thickness(10);
+                this.Content = txt;
+            }
+            catch (WebException e)
+            {
+                DependencyService.Get<Message>().Shorttime("L'appunto non è più disponibile.");
+            }     
         }
     }
 }

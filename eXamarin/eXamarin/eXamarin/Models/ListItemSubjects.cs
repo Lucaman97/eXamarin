@@ -9,14 +9,5 @@ namespace eXamarin.Models
     {
         public string Name { get; set;}
 
-        public static explicit operator ListItemSubjects(ListView v)
-        {
-            throw new NotImplementedException();
-        }
-
-        public static explicit operator ListView(ListItemSubjects v)
-        {
-            throw new NotImplementedException();
-        }
     }
 }

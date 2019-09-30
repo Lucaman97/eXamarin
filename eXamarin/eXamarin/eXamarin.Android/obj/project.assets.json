@@ -879,14 +879,14 @@
           "lib/monoandroid90/Xamarin.Essentials.dll": {}
         }
       },
-      "Xamarin.Forms/4.2.0.815419": {
+      "Xamarin.Forms/4.1.0.778454": {
         "type": "package",
         "dependencies": {
-          "Xamarin.Android.Support.CustomTabs": "28.0.0.3",
-          "Xamarin.Android.Support.Design": "28.0.0.3",
-          "Xamarin.Android.Support.v4": "28.0.0.3",
-          "Xamarin.Android.Support.v7.AppCompat": "28.0.0.3",
-          "Xamarin.Android.Support.v7.CardView": "28.0.0.3"
+          "Xamarin.Android.Support.CustomTabs": "28.0.0.1",
+          "Xamarin.Android.Support.Design": "28.0.0.1",
+          "Xamarin.Android.Support.v4": "28.0.0.1",
+          "Xamarin.Android.Support.v7.AppCompat": "28.0.0.1",
+          "Xamarin.Android.Support.v7.CardView": "28.0.0.1"
         },
         "compile": {
           "lib/MonoAndroid90/FormsViewGroup.dll": {},
@@ -913,7 +913,7 @@
         "dependencies": {
           "Newtonsoft.Json": "12.0.2",
           "Xamarin.Essentials": "1.3.1",
-          "Xamarin.Forms": "4.2.0.815419",
+          "Xamarin.Forms": "4.1.0.778454",
           "sqlite-net-pcl": "1.6.292"
         },
         "compile": {
@@ -1964,10 +1964,10 @@
         "xamarin.essentials.nuspec"
       ]
     },
-    "Xamarin.Forms/4.2.0.815419": {
-      "sha512": "GrKE8TBjR5chew92HBcoaTuqwo6Jnpp0djVaN4/wtGQW/URZAt3Eb3zF8rQ6jRA2WKuTKm3wyPTCPrB2PekIfQ==",
+    "Xamarin.Forms/4.1.0.778454": {
+      "sha512": "JdedcQJM/YeiVyuH/w88Gxp47iC6K765ONpr9800M6omCEwFwbr5VoenIdrVVQ7SxeticPpm/OSOlbXwChorJQ==",
       "type": "package",
-      "path": "xamarin.forms/4.2.0.815419",
+      "path": "xamarin.forms/4.1.0.778454",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2187,13 +2187,13 @@
         "lib/uap10.0/Xamarin.Forms.Platform.UAP.pdb",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP.pri",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/AutoSuggestStyle.xbf",
-        "lib/uap10.0/Xamarin.Forms.Platform.UAP/CollectionView/ItemsViewStyles.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsCheckBoxStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsCommandBarStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsEmbeddedPageWrapper.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsFlyout.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsProgressBarStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/FormsTextBoxStyle.xbf",
+        "lib/uap10.0/Xamarin.Forms.Platform.UAP/Items/ItemsViewStyles.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/MasterDetailControlStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/PageControlStyle.xbf",
         "lib/uap10.0/Xamarin.Forms.Platform.UAP/Properties/Xamarin.Forms.Platform.UAP.rd.xml",
@@ -2206,7 +2206,7 @@
         "lib/uap10.0/Xamarin.Forms.Xaml.dll",
         "lib/uap10.0/Xamarin.Forms.Xaml.pdb",
         "lib/uap10.0/Xamarin.Forms.Xaml.xml",
-        "xamarin.forms.4.2.0.815419.nupkg.sha512",
+        "xamarin.forms.4.1.0.778454.nupkg.sha512",
         "xamarin.forms.nuspec"
       ]
     },
@@ -2226,7 +2226,7 @@
       "Xamarin.Android.Support.v7.CardView >= 28.0.0.3",
       "Xamarin.Android.Support.v7.MediaRouter >= 28.0.0.3",
       "Xamarin.Essentials >= 1.3.1",
-      "Xamarin.Forms >= 4.2.0.815419",
+      "Xamarin.Forms >= 4.1.0.778454",
       "eXamarin >= 1.0.0",
       "sqlite-net-pcl >= 1.6.292"
     ]
@@ -2302,7 +2302,7 @@
           },
           "Xamarin.Forms": {
             "target": "Package",
-            "version": "[4.2.0.815419, )"
+            "version": "[4.1.0.778454, )"
           },
           "sqlite-net-pcl": {
             "target": "Package",

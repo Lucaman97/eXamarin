@@ -29,7 +29,7 @@ namespace eXamarin
 
         }
 
-        //per caricare le materie che hanno almeno un appunto condiviso
+        //per caricare le materie
         async void loadSubj()
         {
             string URL = "http://mobileproject.altervista.org/getsubj.php";
