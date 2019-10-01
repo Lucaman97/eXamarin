@@ -27,11 +27,13 @@ namespace eXamarin
             control = await App.SubjectsDatabase.ControlSubjAsync(materia); //viene utilizzato control, oggetto Subject, per utilizzare il metodo in questione e controllare se la materia è gia presente ne database.
             if (control != null)
             {
-                Debug.WriteLine("L'elemento esiste già, non verrà salvato"); //caso in cui la materia è già presente nel db
+                var message = "L'elemento esiste già, non è stato salvato...";//caso in cui la materia è già presente nel db
+                DependencyService.Get<Message>().Longtime(message);
             }
             else
             {
-                Debug.WriteLine("L'elemento non esiste, verrà salvato"); //la materia non è presente nel db
+                var message = "Salvato"; //la materia non è presente nel db
+                DependencyService.Get<Message>().Longtime(message);
                 await App.SubjectsDatabase.SaveSubjAsync(subj);
             }
             await Navigation.PopAsync(); //restituisce il controllo all'activity precedente

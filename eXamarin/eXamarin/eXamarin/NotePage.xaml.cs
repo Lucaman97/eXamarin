@@ -39,6 +39,8 @@ namespace eXamarin
             note.Notes = notes;
 
             await App.NoteDatabase.SaveNoteAsync(note); //salva l'appunto passando l'oggetto note i cui campi sono stati costruiti in precedenza
+            var message = "Salvato";
+            DependencyService.Get<Message>().Longtime(message);
             await Navigation.PopAsync();
 
             if(condividi==true)
@@ -89,7 +91,9 @@ namespace eXamarin
         async void OnDeleteButtonClicked(object sender, EventArgs e) //elimina l'appunto scelto utilizzando l'oggetto note
         {
             var note = (Note)BindingContext;
+            var message = "Eliminato";
             await App.NoteDatabase.DeleteNoteAsync(note);
+            DependencyService.Get<Message>().Longtime(message);
             await Navigation.PopAsync();
         }
         async void OnCondividiChanged(object sender, CheckedChangedEventArgs e)
