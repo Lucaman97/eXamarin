@@ -1672,6 +1672,8 @@ C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\System.Web.Services.pdb
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\Mono.Security.pdb
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\bin\Debug\eXamarin.dll.mdb
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EmptyViewAdapter_EmptyViewHolder.java
+C:\Git\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutContentRenderer.java
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\eXamarin.Android.pdb
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\FormsViewGroup.pdb
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\Mono.Android.pdb
@@ -1722,6 +1724,4 @@ C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Core.pdb
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Platform.Android.pdb
 C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\assets\Xamarin.Forms.Xaml.pdb
-C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin\bin\Debug\netstandard2.0\eXamarin.dll
-C:\Git\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\EmptyViewAdapter_EmptyViewHolder.java
-C:\Git\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\android\src\md51558244f76c53b6aeda52c8a337f2c37\ShellFlyoutContentRenderer.java
+C:\Users\Simone\Documents\GitHub\eXamarin\eXamarin\eXamarin\eXamarin.Android\obj\Debug\90\linksrc\eXamarin.dll.mdb

@@ -21,6 +21,7 @@ namespace eXamarin
             oldpass = new Entry
             {
                 Text = "",
+                IsPassword = true,
                 Placeholder = "Password attuale",
                 HorizontalTextAlignment = TextAlignment.Center
             };
@@ -28,6 +29,7 @@ namespace eXamarin
             newpass = new Entry
             {
                 Text = "",
+                IsPassword = true,
                 Placeholder = "Nuova password",
                 HorizontalTextAlignment = TextAlignment.Center
             };
