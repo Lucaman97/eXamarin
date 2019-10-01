@@ -23,10 +23,10 @@
                 <ColumnDefinition Width="*" />
                 <ColumnDefinition Width="*" />
             </Grid.ColumnDefinitions>
-            <Button Text="Save" 
+            <Button Text="Salva" 
                     Clicked="OnSaveButtonClicked" />
             <Button Grid.Column="1"
-                    Text="Delete" 
+                    Text="Elimina" 
                     Clicked="OnDeleteButtonClicked"/>
 
         </Grid>

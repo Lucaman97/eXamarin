@@ -38,5 +38,24 @@ namespace eXamarin
             }
             await Navigation.PopAsync(); //restituisce il controllo all'activity precedente
         }
+        async void OnDeleteButtonClicked(object sender, EventArgs e)
+        {
+            var subj = (Subjects)BindingContext;
+            string materia = subj.Subject.ToString();
+            Subjects control = new Subjects();
+            control = await App.SubjectsDatabase.ControlSubjAsync(materia);
+            if (control != null)
+            {
+                var message = "Eliminato";
+                DependencyService.Get<Message>().Longtime(message);
+                await App.SubjectsDatabase.DeleteSubjAsync(control);
+            }
+            else
+            {
+                var message = "La materia non esiste";
+                DependencyService.Get<Message>().Longtime(message);
+            }
+            await Navigation.PopAsync();
+        }
     }
 }

@@ -15,7 +15,7 @@ namespace eXamarin
         {
             InitializeComponent();
 
-            string[] LeMieMaterie = { "T.A.R", "Ricerca operativa", "Tecnologie web", "Programmazione ad oggetti", "Programmazione mobile", "Sistemi operativi", "Calcolatori e reti", "Materia nuova" };
+            string[] LeMieMaterie = { "T.A.R.", "Ricerca operativa", "Tecnologie web", "Programmazione ad oggetti", "Programmazione mobile", "Sistemi operativi", "Calcolatori e reti" };
             listamaterie.ItemsSource = LeMieMaterie;
             //menu.BackgroundColor = Color.Orange;
 

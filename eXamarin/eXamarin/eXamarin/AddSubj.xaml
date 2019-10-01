@@ -10,7 +10,17 @@
                 Placeholder="Materia"
                 Text="{Binding Subject}"
                 HeightRequest="70" />
-        <Button Text="Save" 
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+            <Button Text="Salva" 
                     Clicked="OnSaveButtonClicked" />
+            <Button Grid.Column="1"
+                    Text="Elimina" 
+                    Clicked="OnDeleteButtonClicked"/>
+
+        </Grid>
     </StackLayout>
 </ContentPage>
